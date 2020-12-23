@@ -176,7 +176,7 @@ button {
   .item__top-login {
     height: 60px;
     border-bottom: 1px solid rgba(35, 47, 124, 0.54);
-    background: rgba(73, 119, 208, 0.53);
+    background: gray;
     border-top-left-radius: 9px;
     border-top-right-radius: 9px;
     display: flex;
@@ -186,7 +186,7 @@ button {
   .item__top-profile {
     height: 60px;
     border-bottom: 1px solid rgba(35, 47, 124, 0.54);
-    background: rgba(73, 119, 208, 0.53);
+    background: gray;
     border-top-left-radius: 9px;
     border-top-right-radius: 9px;
     display: flex;
@@ -196,7 +196,7 @@ button {
   .item__top-download {
     height: 60px;
     border-bottom: 1px solid rgba(35, 47, 124, 0.54);
-    background: rgba(73, 119, 208, 0.53);
+    background: gray;
     border-top-left-radius: 9px;
     border-top-right-radius: 9px;
     display: flex;
@@ -206,7 +206,7 @@ button {
   .item__top-location {
     height: 60px;
     border-bottom: 1px solid rgba(35, 47, 124, 0.54);
-    background: rgba(73, 119, 208, 0.53);
+    background: gray;
     border-top-left-radius: 9px;
     border-top-right-radius: 9px;
     display: flex;

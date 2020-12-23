@@ -75,12 +75,12 @@ button {
 
     &__content-s {
         @include item__content;
-        min-height: 84px;
+        min-height: $contentS;
     }
 
     &__content-md {
         @include item__content;
-        min-height: 327px;
+        min-height: $contentMd;
     }
 
     &__btn {
